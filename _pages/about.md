@@ -35,7 +35,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/ReAU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/ReAU.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ReAU: A Global-to-Local Perspective for Refining Alignment and Uniformity in Collaborative Filtering**](https://dl.acm.org/doi/10.1145/3770855.3817818)
