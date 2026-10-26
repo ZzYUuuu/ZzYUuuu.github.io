@@ -65,7 +65,7 @@ The  48th International ACM SIGIR Conference on Research and Development in Info
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/ESWA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/SUAU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
