@@ -24,8 +24,8 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 2. **Generative Recommendation**: Generative recommendation introduces a new paradigm for personalized recommendation by formulating recommendation tasks as generative processes. By leveraging techniques such as autoregressive modeling and large language models, these approaches capture user preferences and item dependencies to directly generate personalized recommendation results, offering greater flexibility in modeling complex user-item relationships.
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 I am selected for the 2026 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project). 
-- *2026.09*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 2nd in the School of Computer Science and Technology, Anhui University, 2026). 
+- *2026.10*: &nbsp;🔥🔥 **I am selected for the 2026 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project).**
+- *2026.09*: &nbsp;🔥🔥 **Winning China National Scholarship (Ranked 2nd in the School of Computer Science and Technology, Anhui University, 2026).**
 - *2026.06*: &nbsp;🎉🎉 Winning Top 2% (21th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper focusing on refining alignment and uniformity in CF is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26).
 - *2026.04*: &nbsp;🎉🎉 One paper focusing on intent space representation optimization for RS is accepted by the SIGIR Conference on Research and Development in Information Retrieval (SIGIR’26).
