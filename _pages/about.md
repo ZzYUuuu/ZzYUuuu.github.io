@@ -95,7 +95,3 @@ Xiang Mao, **Yu Zhang**, Yiwen Zhang, Xiaoyao Zheng. Pacific-Asia Conference on 
 - 🏆 Winning Top 2% (21th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - 🏆 Winning Top 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2025.
 
-# 📖 Educations
-- *2023.09 - 2028.06 (now)*, Ph.D. student in the combined master’s and doctoral program in the School of Computer Science and Technology at Anhui University.
-- *2019.09 - 2023.06*, Undergraduate student at Putian University.
-
