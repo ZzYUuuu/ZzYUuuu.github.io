@@ -97,5 +97,5 @@ Xiang Mao, **Yu Zhang**, Yiwen Zhang, Xiaoyao Zheng. Pacific-Asia Conference on 
 
 # 📖 Educations
 - *2023.09 - 2028.06 (now)*, Ph.D. student in the combined master’s and doctoral program in the School of Computer Science and Technology at Anhui University.
-- *2019.09 - 2023.06 *, Undergraduate student at Putian University.
+- *2019.09 - 2023.06*, Undergraduate student at Putian University.
 
