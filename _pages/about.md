@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Prof. Yiwen Zhang. I have also been invited to serve as a reviewer for several international conferences and journals, including SIGIR, WWW and AAAI. My research primarily focuses on recommender systems, particularly collaborative filtering and generative recommendation: 
+I am currently a Ph.D. candidate at the School of Computer Science and Technology, Anhui University, under the supervision of Prof. Yiwen Zhang. I have also been invited to serve as a reviewer for several international conferences and journals, including SIGIR, WWW and AAAI. My research primarily focuses on recommender systems, particularly collaborative filtering and generative recommendation: 
 
 1. **Collaborative Filtering**: Collaborative filtering leverages historical user-item interactions to discover collaborative relationships and infer user preferences. By employing advanced representation learning techniques, such as graph neural networks and contrastive learning, collaborative filtering methods can effectively capture complex interaction patterns and learn informative user and item representations, thereby improving recommendation accuracy.
 
@@ -95,3 +95,5 @@ Xiang Mao, **Yu Zhang**, Yiwen Zhang, Xiaoyao Zheng. Pacific-Asia Conference on 
 - 🏆 Winning Top 2% (21th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - 🏆 Winning Top 1% (14th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2025.
 
+# 💻 Internships
+- *2026.11 - now*, Research intern at Tencent CDG.
