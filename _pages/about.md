@@ -1,4 +1,4 @@
----
+<img width="1254" height="1274" alt="a4410b3b3a376df030b01bd4e53d1c54" src="https://github.com/user-attachments/assets/efc1f8de-4be5-4b49-942b-a52958dea48c" /><img width="1254" height="1274" alt="a4410b3b3a376df030b01bd4e53d1c54" src="https://github.com/user-attachments/assets/a6b073d0-1e46-45e2-a3d3-236bb0a0c3fb" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -24,8 +24,9 @@ I am currently a Ph.D. candidate at the School of Computer Science and Technolog
 2. **Generative Recommendation**: Generative recommendation introduces a new paradigm for personalized recommendation by formulating recommendation tasks as generative processes. By leveraging techniques such as autoregressive modeling and large language models, these approaches capture user preferences and item dependencies to directly generate personalized recommendation results, offering greater flexibility in modeling complex user-item relationships.
 
 # 🔥 News
+- *2026.11*: &nbsp;🔥🔥 **One co-authored paper focusing on Multimodal Recommendation is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’27).**
 - *2026.10*: &nbsp;🔥🔥 **I am selected for the 2026 China Association for Science and Technology Young Scientist Sponsorship Program (Doctoral Student Special Project).**
-- *2026.09*: &nbsp;🔥🔥 **Winning China National Scholarship (Ranked 2nd in the School of Computer Science and Technology, Anhui University, 2026).**
+- *2026.09*: &nbsp;🎉🎉 Winning China National Scholarship (Ranked 2nd in the School of Computer Science and Technology, Anhui University, 2026).
 - *2026.06*: &nbsp;🎉🎉 Winning Top 2% (21th) place in the preliminary round of the Tencent Advertising Algorithm Competition 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper focusing on refining alignment and uniformity in CF is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26).
 - *2026.04*: &nbsp;🎉🎉 One paper focusing on intent space representation optimization for RS is accepted by the SIGIR Conference on Research and Development in Information Retrieval (SIGIR’26).
@@ -76,11 +77,17 @@ Expert Systems With Applications (**ESWA'25, CCF C, JCR Q1**)[[Code](https://git
 </div>
 
 # 📝 Other Publications 
+1. [**Towards Distribution Matching between Collaborative and Modality Spaces for Multimodal Recommendation**].
+Fang Kai, **Yu Zhang**,  Xinxing Yu, Hui Ma, Yiwen Zhang, Yanyan Liang. The SIGKDD Conference on Knowledge Discovery and Data Mining  (KDD'27)
+
 1. [**Revisiting Contrastive Learning in Collaborative Filtering via Parallel Graph Filters**](https://ojs.aaai.org/index.php/AAAI/article/view/38521).
 Fang Kai, **Yu Zhang**, Kaibin Wang, Lei Sang, Yiwen Zhang. The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)
 
+1. [**LLM-Enhanced Intent Contrastive Learning for Sequential Recommendation**](https://ieeexplore.ieee.org/document/11793691).
+Fangxian Wu, **Yu Zhang**, Lei Sang, Yiwen Zhang. IEEE Transactions on Consumer Electronics (TCE'27)
+
 1. [**Semantic Augmented Multiview Graph Learning With Frequency-Aware Propagation for Recommendation**](https://ieeexplore.ieee.org/abstract/document/11656239).
-Yixin Liu, **Yu Zhang**, Lei Sang, Yiwen Zhang. IEEE Transactions on Computational Social Systems (TCSS'26).
+Yixin Liu, **Yu Zhang**, Lei Sang, Yiwen Zhang. IEEE Transactions on Computational Social Systems (TCSS'26)
 
 1. [**Joint Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering**](https://ieeexplore.ieee.org/abstract/document/11535508).
 Shihao Li, Xinzhe Jiang, **Yu Zhang**, Lei Sang, Yiwen Zhang. IEEE Transactions on Consumer Electronics (TCE'26)
