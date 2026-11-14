@@ -1,4 +1,3 @@
-<img width="1254" height="1274" alt="a4410b3b3a376df030b01bd4e53d1c54" src="https://github.com/user-attachments/assets/efc1f8de-4be5-4b49-942b-a52958dea48c" /><img width="1254" height="1274" alt="a4410b3b3a376df030b01bd4e53d1c54" src="https://github.com/user-attachments/assets/a6b073d0-1e46-45e2-a3d3-236bb0a0c3fb" />---
 permalink: /
 title: ""
 excerpt: ""
