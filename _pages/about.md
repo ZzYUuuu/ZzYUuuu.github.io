@@ -77,7 +77,7 @@ Expert Systems With Applications (**ESWA'25, CCF C, JCR Q1**)[[Code](https://git
 </div>
 
 # 📝 Other Publications 
-1. [**Towards Distribution Matching between Collaborative and Modality Spaces for Multimodal Recommendation**].
+1. **Towards Distribution Matching between Collaborative and Modality Spaces for Multimodal Recommendation**.
 Fang Kai, **Yu Zhang**,  Xinxing Yu, Hui Ma, Yiwen Zhang, Yanyan Liang. The SIGKDD Conference on Knowledge Discovery and Data Mining  (KDD'27)
 
 1. [**Revisiting Contrastive Learning in Collaborative Filtering via Parallel Graph Filters**](https://ojs.aaai.org/index.php/AAAI/article/view/38521).
